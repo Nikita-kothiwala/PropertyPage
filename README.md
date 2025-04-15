@@ -1,12 +1,53 @@
-# React + Vite
+# Property Page Design
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive single-page property listing design built using **React.js** and **Tailwind CSS**.  
+This UI showcases detailed property information and includes a contact form for user inquiries.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##  Features
 
-## Expanding the ESLint configuration
+-  Desktop responsive layout  
+-  Clean and structured property details section  
+- Contact form with input fields for user communication  
+- Styled using Tailwind CSS for fast and modern design  
+- Built with React for component-based architecture
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+
+##  Tech Stack
+
+- **React.js** – Frontend framework  
+- **Tailwind CSS** – Utility-first CSS framework
+
+---
+
+
+
+---
+
+## ⚙️ Getting Started
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Nikita-kothiwala/PropertyPage
+
+
+2. ** Install Dependencies **
+```bash
+cd PropertyPageAssignment
+npm install
+
+
+3. **Start the development server**
+```bash 
+npm run dev
+
+
+
+** Note
+-Currently optimized for desktop view only
+
+-Mobile responsiveness is not yet implemented
+
